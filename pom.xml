@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<!-- groupID must be the business group ID or ORGID-->
-	<groupId>615610e7-8eb3-429f-af99-c0f12c2f81ee</groupId>
+	<groupId>e24cd9f7-7e75-48f1-a241-0e8c028596f0</groupId>
 	<artifactId>greeetings-parametrized</artifactId>
 	<version>1.0.4</version>
 	<packaging>mule-application</packaging>
